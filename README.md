@@ -135,3 +135,17 @@ git push origin {version}
 ```
 pod trunk push {your_library_name}.podspec
 ```
+
+
+[Refrence](https://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
+
+
+## Author
+
+Mostafa Taghipour, mostafa@taghipour.me
+
+## License
+
+Copyright © 2019 Mostafa Taghipour. 
+
+[LICENSE]: LICENSE
